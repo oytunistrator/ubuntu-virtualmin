@@ -20,6 +20,10 @@ SERIAL=GPL
 KEY=GPL
 VER=7.3.4
 vm_version=7
+TZ=Europe/Istanbul
+DEBIAN_FRONTEND=noninteractive
+TERM=/bin/bash
+TERMINFO=/usr/lib/terminfo
 
 # Server
 upgrade_virtualmin_host=software.virtualmin.com
